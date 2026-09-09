@@ -1,8 +1,8 @@
 <div align="center">
 
-# <span style="color:#C77DFF;">Hi i'm Emilly</span>
+# <span style="color:#C77DFF;">⋆˚✿˖°Hi i'm Emilly⋆‧°𓏲ּ𝄢</span>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+UEPB;Python;C+Programming;Building+the+Future+with+Code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+UEPB;Python+Code;C+Programming;Building+the+Future+with+Code" alt="Typing SVG"/>
 
 <div align="center">
 <br><br>
